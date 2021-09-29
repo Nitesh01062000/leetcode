@@ -1,5 +1,5 @@
-First approached with prefix in each row, TC - O(N*M*N). 
-Then maximum area of a histogram, TC - O(N*M).
+// First approached with prefix in each row, TC - O(N*M*N). 
+// Then maximum area of a histogram, TC - O(N*M).
   
 class Solution {
 public:
